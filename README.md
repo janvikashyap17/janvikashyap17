@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **React, Vue, Gsap**
 
-- 📫 How to reach me **janviikshyap414@gmail.com**
-
 - 📄 Know about my experiences [resume.io/janvikashyap17](resume.io/janvikashyap17)
 
 - ⚡ Fun fact **I think I am funny**
